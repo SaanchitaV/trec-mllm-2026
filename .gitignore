@@ -1,0 +1,12 @@
+# TREC track data — never commit (see README: Data)
+*.json
+*.json.gz
+llm_dev_data.tsv
+llm_dev_qrels.txt
+logprob_summary*.csv*
+structures.pkl
+chunk_emb.npy
+# junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

@@ -1,0 +1,5 @@
+rank_bm25>=0.2.2
+ijson>=3.2          # streaming the 1.3 GB metadata file
+# dense experiment only:
+# sentence-transformers>=3.0
+# numpy
